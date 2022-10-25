@@ -9,14 +9,14 @@ This document provides an outline of the topics we want to understand from our c
 
 # Timeline
 
-Date 1: Align on the topics & learning goals
-Date 2: Develop a core group of contributors
-Date 3: Survey draft written
-Date 4: Survey text finalized
-Date 5: Survey launched
-Date 6: Survey closed
-Date 7: Survey raw data available
-Date 8: Synthesis available
+- Date 1: Align on the topics & learning goals
+- Date 2: Develop a core group of contributors
+- Date 3: Survey draft written
+- Date 4: Survey text finalized
+- Date 5: Survey launched
+- Date 6: Survey closed
+- Date 7: Survey raw data available
+- Date 8: Synthesis available
 
 # Want to help?
 
